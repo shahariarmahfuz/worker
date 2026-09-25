@@ -1,0 +1,3 @@
+name = "incoming-email-worker"
+main = "src/index.ts"
+compatibility_date = "2026-09-25"
