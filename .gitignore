@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Wrangler
+.wrangler/
+
+# Temporary test emails and logs
+received_emails/
+*.eml
+*.log
+
+# Environment files
+.env
+.env.*
