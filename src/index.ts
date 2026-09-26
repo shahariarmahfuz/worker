@@ -1,7 +1,7 @@
 export default {
   async email(message, env, ctx) {
     const backendUrl =
-      "https://coleman-hudson-annie-agreed.trycloudflare.com/api/internal/email/incoming";
+      "https://next-net-rack-arabic.trycloudflare.com/api/internal/email/incoming";
 
     try {
       const response = await fetch(backendUrl, {
